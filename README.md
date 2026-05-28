@@ -14,7 +14,7 @@ curls, squats, and pushups without a personal trainer.
 - Experiment Tracking: Weights & Biases (W&B)
 
 ## Project Structure
-
+```
 repsense/
 ├── core/
 │   ├── pose_engine.py        # YOLOv8-Pose wrapper + ByteTrack
@@ -27,7 +27,7 @@ repsense/
 ├── experiments/              # W&B experiment tracking
 ├── assets/                   # Demo images and videos
 └── README.md
-
+```
 ## How to Run
 
 ### 1. Clone the repository
